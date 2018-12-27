@@ -1,3 +1,5 @@
+# Program prints a user-input list separated by commas and a final "and".
+
 def enum(list):
     a = ''
     for i in list[:-1]:
